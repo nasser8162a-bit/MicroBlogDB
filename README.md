@@ -1,7 +1,7 @@
 # MicroBlogDB
 
 A simplified Twitter-like microblogging platform database, built in MySQL. The project covers ER design, table creation with proper foreign key relationships, password hashing, and stored procedures for common actions such as account creation and following users.
-![ER Diagram](C:\Users\Nasser\Documents\MicroBlogDB\docs)
+![ER Diagram](er_diagram.svg)
 
 ## Database Schema
 
